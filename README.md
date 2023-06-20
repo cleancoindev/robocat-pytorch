@@ -1,3 +1,5 @@
+<img src="./robocat.png" width="450px"></img>
+
 ## RoboCat - Pytorch (wip)
 
 Implementation of Deepmind's <a href="https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/robocat-a-self-improving-robotic-agent/robocat-a-self-improving-foundation-agent-for-robotic-manipulation.pdf">RoboCat</a>, Self-Improving Foundation Agent for Robotic Manipulation, in Pytorch
