@@ -4,6 +4,8 @@
 
 Implementation of Deepmind's <a href="https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/robocat-a-self-improving-robotic-agent/robocat-a-self-improving-foundation-agent-for-robotic-manipulation.pdf">RoboCat</a>, Self-Improving Foundation Agent for Robotic Manipulation, in Pytorch
 
+<a href="https://evjang.com/2023/06/22/robocat.html">Eric Jang take</a>
+
 ## Citations
 
 ```bibtex
